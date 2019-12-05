@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-<a href= "https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber"><h1> YouTube Chanel </h1> </a>
+[YouTube](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)"
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
