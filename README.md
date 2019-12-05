@@ -26,11 +26,8 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sudhakarcs77/sudhakar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-Subscribe to [**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
+Subscribe to [**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)<br/><br/>
 Phone : 9676562611
  
