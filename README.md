@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-![[**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwixs8rcoJ7mAhWCzjgGHYbWC2EQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fabout%2Fbrand-resources%2F&psig=AOvVaw0yhKGZlYsMdVZpqrYYKbIa&ust=1575626341676332)
+**YouTube Channel**(https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
 
 ### Markdown
 
