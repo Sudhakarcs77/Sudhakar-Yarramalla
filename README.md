@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-[YouTube Chanel](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)"
+[**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
 
 ### Markdown
 
@@ -31,5 +31,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sudhakarcs77/sudhakar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
+Subscribe to [**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
 Phone : 9676562611
  
