@@ -1,6 +1,6 @@
 ## Welcome to my Blog
 
-**YouTube Channel**(https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
+[**YouTube Channel**](https://www.youtube.com/channel/UC6kqSFkmT94Aassu23HJ2og?view_as=subscriber/)
 
 ### Markdown
 
